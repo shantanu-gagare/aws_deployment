@@ -1,6 +1,6 @@
 # Flipkart Review Scrapper - Deployed on AWS 
-– Developed a web scraping system using Beautiful Soup in Python to efficiently gather structured Flipkart product
+- Developed a web scraping system using Beautiful Soup in Python to efficiently gather structured Flipkart product
 reviews, primed for integration with sentiment analysis tools. This project is deployed on AWS.
 
-– Technologies Used: Beautiful Soup, HTML, CSS, Bootstrap, JavaScript, Flask, MongoDB
+- bTechnologies Used: Beautiful Soup, HTML, CSS, Bootstrap, JavaScript, Flask, MongoDB
 - link: http://webscrappingproject-env.eba-gxmpfx2k.us-east-1.elasticbeanstalk.com/
